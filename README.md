@@ -26,7 +26,7 @@ Ensure you install both PySpark and MLeap properly and use the [notebook](https:
 
 ### Dataset Credits:
 
-The dataset is credited to Ronny Kohavi and Barry Becker (from this paper) and was drawn from the 1994 United States Census Bureau data and involves using personal details such as education level to predict whether an individual will earn more or less than $50,000 per year.
+The dataset is credited to Ronny Kohavi and Barry Becker (from [this paper](https://dl.acm.org/doi/10.5555/3001460.3001502)) and was drawn from the 1994 United States Census Bureau data and involves using personal details such as education level to predict whether an individual will earn more or less than $50,000 per year.
 
 ### Resources
 
